@@ -1,1 +1,9 @@
 Any ideas related to the physical design of the device.
+
+
+Button/Slider
+- What if you could use a similar concept to that used in a multimeter to 5 position input?
+Challenges:
+	- Need to design a slider
+	- Need to create design for the ridges to keep the slider in place
+	- Need to find a way to attach the locations on the slider to the circuit
